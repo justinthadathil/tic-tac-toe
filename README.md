@@ -1,3 +1,3 @@
 # TicTacToe
 
-This is a TicTacToe game build with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.1.
+This is a simple TicTacToe game build with Angular where parent to child communication is implemented
